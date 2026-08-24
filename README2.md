@@ -84,7 +84,7 @@ I analyzed:
 
 **Business Findings & Recommendations** 
 
- 
+ (ini belom)
 
 
 **Tools & Skills**
@@ -95,19 +95,19 @@ Programming & Analysis
 - Numpy
 - Matplotlib
 - Seaborn
+- Sklearn
 
 Analysis
 - Data Cleaning
 - Exploratory Data Analysis
+- K-Means Clustering
 - Customer Segmentation
 - Data Visualization
-
-**Dataset**
-
 
 
 **Dashboard**
 
+<img width="1000" height="800" alt="Dashboard Behavioural Segmentation" src="https://github.com/user-attachments/assets/29e83fa1-305f-43d1-a69f-6cfc30305754" />
 
 
 
