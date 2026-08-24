@@ -98,6 +98,7 @@ Analysis
 
 **Dataset**
 
+[Mall_Customers.csv](https://github.com/user-attachments/files/31377341/Mall_Customers.csv)
 
 
 **Dashboard**
