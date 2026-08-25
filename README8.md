@@ -126,10 +126,9 @@ Excel | Python | SQL | Google Looker Studio | Tableau | Business Analysis
 
 to transform data into structured insights that can support better business decisions.
 
--- Feel free to ask me in (link nya kalo bisa)
+Feel free to ask me in 
 
-instagram: qoyyum19
-linked in: Raden Wahyuni
+linked in: https://www.linkedin.com/in/raden-wahyuni/
 
 
 
