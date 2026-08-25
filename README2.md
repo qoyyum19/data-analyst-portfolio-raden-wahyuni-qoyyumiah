@@ -11,7 +11,7 @@ Company wants to understand:
 - Which category have high purchases/shopping?
 - What recommendations can be made to improve?
 
-**2. Dataset**
+**2. Data**
 
 **Column**      
 
@@ -71,20 +71,31 @@ I analyzed:
 
 1. Gender Performance
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office. (ini belom)
+    The analysis shows that gender who contribute a lot of sales or purchasing is female not male.
 
 2. Payment Method
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central. (ini belom)
+    The analysis shows that people who use payment method cash is a lot than other payment method.
 
 3. Category Performance
 
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office. (ini belom)
+    The analysis shows that clothing category contribute a lot of sales or purchasing in shopping mall than other category. 
 
 
 **Business Findings & Recommendations** 
 
- (ini belom)
+ Base on clustering k-means, behavioral segmentation divided four group. 
+
+    0: High spending, often transaction
+    1: Often transaction but low spending
+    2: A little shopping and rarely transaction
+    3: Try many category and shopping in many mall
+
+    Strategy:
+    0: Give loyalty prgram, membership VIP
+    1: Push upselling and bundling product to achieve high transaction
+    2: Give discount and voucher
+    3: Recommend cross selling
 
 
 **Tools & Skills**
