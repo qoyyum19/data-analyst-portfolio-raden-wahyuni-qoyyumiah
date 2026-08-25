@@ -1,7 +1,7 @@
 ## Attendance HR Analysis
 
 **Data Analyst Portfolio Project**
-Analyzing attendance hr performance using Python & Tableau
+Analyzing attendance hr performance using SQL & Tableau
 
 **1. Business Problem**
 Company wants to understand:
