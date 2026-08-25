@@ -4,86 +4,81 @@
 Analyzing attendance hr performance using Python & Tableau
 
 **1. Business Problem**
-ini belom
 Company wants to understand:
-- Which regions have high sales figures?
-- Which customers segments generate the most sales?
-- Which category have high profit?
-- What recommendations can be made to improve profitability?
+- How many employee?
+- How many departments?
+- How absence & attendance rate?
+- How employee performance?
 
-**2. Data** ini belom
+**2. Data** 
 
-**Column**      
+Have 5 table
+- attendance
+- departments
+- employees
+- performance
+- salary_history
 
-ORDERID
 
-
-**3. Analysis Process** ini juga
+**3. Analysis Process**
 
 The analysis was conducted through several stages:
 
 **Step 1 -- Data Understanding**
 
 - Dataset structure
-- Data types
+- Identification data
 - Duplicate records
 - Checking null
 
 **Step 2 -- Data Cleaning**
 
 - Just checking, not remove records
-- Not necessary to change data type
+- Just checking, not remove null
 
 **Step 3 -- Exploratory Data Analysis**
 
 I analyzed:
-- Sales performance
-- Customer segments
-- Regional performance
+- Employee performance
+- Attendance rate
 
 
-**Step 4 -- Use Python**
+**Step 4 -- Use SQL**
 
 - Data cleaning
 - EDA
-- Statistic Descriptive & summary
-- Data visualization
-- Identifying outlier
+- Identification
 
 
-**Key Findings** INI BELOM
+**Key Findings**
 
-1. Customer Segment Performance
+1. Employee Performance
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office.
+    The analysis shows that total employee is 500 employee. Dominate male employee 300 & female 200. Total departments 15. 
 
-2. Regional Performance
+2. Absences & Attendance Rate
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central.
+    The analysis shows that attendance present have 66% than late absent wfh and other things. Maximum performance employee is 50 point       and average performance is 32,7. 
 
-3. Category Performance
-
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office.
 
 
 **Business Findings & Recommendations** 
 
-ini belom
+As an HR, see performance employee in company shows attendance rate >50%. It means employee that healthy. Performance score around average performance. 
 
 **Tools & Skills**
 
 Programming & Analysis
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- SQL
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
 
 Analysis
 - Data Cleaning
 - Exploratory Data Analysis
-- Customer Segmentation
-- Data Visualization
+  
 
 
 **Dashboard**
