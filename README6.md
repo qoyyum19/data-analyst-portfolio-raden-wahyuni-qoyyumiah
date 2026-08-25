@@ -1,89 +1,107 @@
 ## Medinara Clinic Analysis
 
 **Data Analyst Portfolio Project**
-Analyzing medinara clinic performance using Python & Tableau
+Analyzing medinara clinic performance using SQL & Tableau
 
-**1. Business Problem** ini belom
+**1. Business Problem** 
 
 Company wants to understand:
-- Which regions have high sales figures?
-- Which customers segments generate the most sales?
-- Which category have high profit?
-- What recommendations can be made to improve profitability?
+- How many distribution patients by gender?
+- What average age of patients?
+- How cancellation rate?
+- What top 5 doctors?
+- What top 10 medicine?
 
 **2. Data**
 
-**Column**      
+Have 5 table
+- appointments
+- diagnoses
+- doctors
+- patients
+- prescriptions
 
-OrderID          
 
-
-**3. Analysis Process** belom
+**3. Analysis Process** 
 
 The analysis was conducted through several stages:
 
 **Step 1 -- Data Understanding**
 
 - Dataset structure
-- Data types
-- Duplicate records
+- Data overview
 - Checking null
 
 **Step 2 -- Data Cleaning**
 
 - Just checking, not remove records
-- Not necessary to change data type
+- Just checking, not remove null
 
 **Step 3 -- Exploratory Data Analysis**
 
 I analyzed:
-- Sales performance
-- Customer segments
-- Regional performance
+- Patients performance
+- Cancellation rate
+- Top 5 doctors
+- Top 10 medicine
 
-
-**Step 4 -- Use Python**
+**Step 4 -- Use SQL**
 
 - Data cleaning
 - EDA
-- Statistic Descriptive & summary
-- Data visualization
-- Identifying outlier
 
 
-**Key Findings** belom jg
+**Key Findings**
 
-1. Customer Segment Performance
+1. Patients Performance
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office.
+    The analysis shows that patients performance female	1040, male	960. Average patients is 40 years old. 
 
-2. Regional Performance
+2. Cancellation Rate
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central.
+    The analysis shows that cancellation rate is 8.000000000000.
 
-3. Category Performance
+3. Top 5 doctors
 
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office.
+    The analysis shows that top 5 doctors are
+    - dr. Ratna Hidayat
+    - dr. Galih Anggara
+    - dr. Sari Hidayat, Sp.PD
+    - dr. Anggi Mahendra
+    - dr. Nadia Lesmana, Sp.M
 
+4. Top 10 Medicine
+    - Omeprazole 20mg
+    - Mefenamic acid 500mg
+    - Ibuprofen 400mg
+    - Dexamethasone inj
+    - Glibenclamide 5mg
+    - Amoxicillin 500mg
+    - Metformin 500mg
+    - Salep gatal
+    - Antasida
+    - Cetirizine 10mg
+
+    
 
 **Business Findings & Recommendations** 
 
-ini belom juga
+ Average of patients is 40 years old. People who visited the most is female than male. And the most medicine is omeprazole. Recently, in   medinara clinic patients trend dominate people who 40 years old. 
+ 
 
 **Tools & Skills**
 
 Programming & Analysis
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- SQL 
+- JOIN
+- WHERE
+- ORDER BY
+- GROUP BY
 
 Analysis
 - Data Cleaning
 - Exploratory Data Analysis
-- Customer Segmentation
-- Data Visualization
+
 
 
 **Dashboard**
