@@ -1,7 +1,7 @@
 ## Superstore Gayanara Analysis
 
 **Data Analyst Portfolio Project**
-Analyzing superstore gayanara performance using Python & Tableau
+Analyzing superstore gayanara performance using SQL & Tableau
 
 **1. Business Problem**
 Company wants to understand:
@@ -27,65 +27,72 @@ The analysis was conducted through several stages:
 **Step 1 -- Data Understanding**
 
 - Dataset structure
-- Data types
+- Identification data and overview data
 - Duplicate records
 - Checking null
 
 **Step 2 -- Data Cleaning**
 
 - Just checking, not remove records
-- Not necessary to change data type
+- Just checking, not remove null
 
 **Step 3 -- Exploratory Data Analysis**
 
 I analyzed:
 - Sales performance
-- Customer segments
-- Regional performance
+- Average order value
+- Top 10 best selling
 
 
-**Step 4 -- Use Python**
+**Step 4 -- Use SQL**
 
 - Data cleaning
 - EDA
-- Statistic Descriptive & summary
-- Data visualization
-- Identifying outlier
 
 
-**Key Findings** ini belom juga
 
-1. Customer Segment Performance
+**Key Findings** 
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office.
+1. Sales & revenue Performance
 
-2. Regional Performance
+    The analysis shows that total revenue is 1531780000. From 2022 until 2025, sales have high sales trend. 
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central.
+2. Average Order Value
 
-3. Category Performance
+    The analysis shows that average order value is 510593.
 
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office.
+3. Top 10 best selling products
 
+    The analysis shows that top 10 best selling products are:
+    - Shirt Slim Fit Tropika Style
+    - Dress Midi Floral NusaBrand
+    - Celana Jogger Tropika Style
+    - Dress Bodycon Pesona Indo
+    - Jaket Parasut Riang Apparel
+    - Kemeja Oxford NusaBrand
+    - Dress Wrap Pesona Indo
+    - T-Shirt Graphic BajuKita    
+    - Kaos Striped Riang Apparel
+    - Celana Cargo NusaBrand
 
+   
 **Business Findings & Recommendations** 
 
-ini belom
+After analysis, the best selling products is clothing category such as dress, t-shirt, shirt etc. Sales trend shows increase from 2022 until 2025. It means sales must grow with strategy & discount.  
 
-**Tools & Skills** ini juga belom
+**Tools & Skills**
 
 Programming & Analysis
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- SQL
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- JOIN
 
 Analysis
 - Data Cleaning
 - Exploratory Data Analysis
-- Customer Segmentation
-- Data Visualization
 
 
 **Dashboard**
