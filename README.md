@@ -1,7 +1,7 @@
 ## E-Commerce Sales Analysis
 
 **Data Analyst Portfolio Project**
-Analyzing e-commerce sales performmance using Python & Tableau
+Analyzing e-commerce sales performance using Python & Tableau
 
 **1. Business Problem**
 
