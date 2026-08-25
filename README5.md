@@ -4,21 +4,23 @@
 Analyzing superstore gayanara performance using Python & Tableau
 
 **1. Business Problem**
-ini belom
 Company wants to understand:
-- Which regions have high sales figures?
-- Which customers segments generate the most sales?
-- Which category have high profit?
-- What recommendations can be made to improve profitability?
+- How many total revenue?
+- How average order value?
+- How sales trend?
+- What top 10 the best selling products?
 
 **2. Data**
 
-**Column**      
+Have 5 tables
+- customers
+- order items
+- orders
+- products
+- reviews
 
-OrderID          
 
-
-**3. Analysis Process** ini belom
+**3. Analysis Process**
 
 The analysis was conducted through several stages:
 
