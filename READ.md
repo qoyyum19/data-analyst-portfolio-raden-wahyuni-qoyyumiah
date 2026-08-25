@@ -3,12 +3,11 @@
 **Data Analyst Portfolio Project**
 Analyzing customer segmentation using Python & Tableau
 
-**1. Business Problem** (ini belom)
+**1. Business Problem** 
 
 Company wants to understand:
-- Which regions have high sales figures?
-- Which customers segments generate the most sales?
-- Which category have high profit?
+- Which gender who the most spending?
+- How many customers segmentation divided?
 - What recommendations can be made to improve profitability?
 
 **2. Dataset**
@@ -55,28 +54,30 @@ I analyzed:
 - Data cleaning
 - EDA
 - Statistic Descriptive & summary
+- K-Means Clustering
 - Data visualization
 - Identifying outlier
 
 
 **Key Findings**
 
-1. Customer Segment Performance
+1. Gender Performance
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office. (ini belom)
+    The analysis shows that gender who spending the most shopping is female customer than male customer. 
 
-2. Regional Performance
+2. Customer Segmentation
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central. (ini belom)
+    The analysis shows that customer segmentation performance divided five group.
 
-3. Category Performance
-
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office. (ini belom)
 
 
 **Business Findings & Recommendations** 
 
-ini belom
+*   0: High revenue low spending, strategy loyalty program and premium promotion
+*   1: Low revenue high spending, strategy give discount and cashback
+*   2: Medium revenue medium spending, strategy retention program
+*   3: High revenue high spending, strategy give vip customer and exlusive rewards
+*   4: Low revenue low spending, strategy promotion and education product
 
 
 **Tools & Skills**
@@ -84,10 +85,10 @@ ini belom
 Programming & Analysis
 - Python
 - Pandas
-- Numpy
+- NumPy
 - Matplotlib
 - Seaborn
-- Sklearn
+- SKlearn
 
 Analysis
 - Data Cleaning
