@@ -1,89 +1,114 @@
 ## Skillaju Analysis
 
 **Data Analyst Portfolio Project**
-Analyzing skillaju performance using Python & Tableau
+Analyzing skillaju performance using SQL & Tableau
 
-**1. Business Problem** belom
+**1. Business Problem**
 
 Company wants to understand:
-- Which regions have high sales figures?
-- Which customers segments generate the most sales?
-- Which category have high profit?
-- What recommendations can be made to improve profitability?
-
-**2. Dataset**
-
-**Column**      
-
-OrderID          
+- How many students enrollment?
+- How many course in there?
+- Which the most course enrollment ?
 
 
-**3. Analysis Process** belom
+**2. Data**
+
+Have 5 table
+- courses
+- enrollments
+- instructors
+- quiz_results
+- students
+
+
+**3. Analysis Process** 
 
 The analysis was conducted through several stages:
 
 **Step 1 -- Data Understanding**
 
 - Dataset structure
-- Data types
-- Duplicate records
+- Data overview
 - Checking null
 
 **Step 2 -- Data Cleaning**
 
 - Just checking, not remove records
-- Not necessary to change data type
+- Checking null
 
 **Step 3 -- Exploratory Data Analysis**
 
 I analyzed:
-- Sales performance
-- Customer segments
-- Regional performance
+- Students performance
+- Course performance
 
 
 **Step 4 -- Use Python**
 
 - Data cleaning
 - EDA
-- Statistic Descriptive & summary
-- Data visualization
-- Identifying outlier
 
 
-**Key Findings** belom jg
 
-1. Customer Segment Performance
+**Key Findings** 
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office.
+1. Students Performance
 
-2. Regional Performance
+    The analysis shows that students have 300. 
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central.
+2. Course Performance
 
-3. Category Performance
+    The analysis shows that course have
+   
+    Data Engineering	6
+   
+    Excel	            8
+   
+    Power BI	        8
+   
+    Statistics	        8
+   
+    Python	            10
+   
+    SQL	                10
+   
 
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office.
+    The most course enrollment
+   
+    Probabilitas untuk Data Science
+   
+    Statistical Inference dari Nol
+   
+    Time Series Analysis dengan Python
+   
+    Bayesian Statistics Praktis
+   
+    Excel untuk Finance Analyst
+   
+    Web Scraping dengan Python
+   
+    Modeling Data di Power BI
+   
+    Power BI Advanced: Calculated Tables
+   
+    DAX Fundamentals
+   
+    Data Modeling: Star & Snowflake
 
 
-**Business Findings & Recommendations** 
-
-ini belom jg
 
 **Tools & Skills**
 
 Programming & Analysis
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- SQL
+- JOIN
+- WHERE
+- ORDER BY
+- GROUP BY
 
 Analysis
 - Data Cleaning
 - Exploratory Data Analysis
-- Customer Segmentation
-- Data Visualization
 
 
 **Dashboard**
