@@ -1,89 +1,207 @@
 ## Sedukopi Analysis
 
 **Data Analyst Portfolio Project**
-Analyzing sedukopi performance using Python & Tableau
+Analyzing sedukopi performance using SQL & Tableau
 
-**1. Business Problem** ini belom
+**1. Business Problem** 
 
 Company wants to understand:
-- Which regions have high sales figures?
-- Which customers segments generate the most sales?
-- Which category have high profit?
-- What recommendations can be made to improve profitability?
+- How many revenue by month sedukopi get?
+- How many revenue by year sedukopi get?
+- What top 10 menu items?
+- How many average price by category?
 
-**2. Dataset**
+**2. Data**
 
-**Column**      
+Have 5 table
+- menu_items
+- order_details
+- orders
+- outlets
+- staff
+         
 
-OrderID          
 
-
-**3. Analysis Process** belom
+**3. Analysis Process** 
 
 The analysis was conducted through several stages:
 
 **Step 1 -- Data Understanding**
 
 - Dataset structure
-- Data types
-- Duplicate records
+- Identification data
 - Checking null
 
 **Step 2 -- Data Cleaning**
 
 - Just checking, not remove records
-- Not necessary to change data type
+- Just checking null
 
 **Step 3 -- Exploratory Data Analysis**
 
 I analyzed:
-- Sales performance
-- Customer segments
-- Regional performance
+- Revenue performance
+- Top 10 menu items
+- Average price
 
 
-**Step 4 -- Use Python**
+**Step 4 -- Use SQL**
 
 - Data cleaning
 - EDA
-- Statistic Descriptive & summary
-- Data visualization
-- Identifying outlier
 
 
-**Key Findings** belom jg
 
-1. Customer Segment Performance
+**Key Findings** 
 
-    The analysis shows that customer segment contribute a lot of sales is consumer than corporate or home office.
+1. Revenue Performance
 
-2. Regional Performance
+    The analysis shows that revenue
+   
+    2022	1	5881000
+   
+    2022	2	5470000
+   
+    2022	3	6732000
+   
+    2022	4	4774000
+   
+    2022	5	5579000
+   
+    2022	6	6387000
+   
+    2022	7	6931000
+   
+    2022	8	6604000
+   
+    2022	9	6431000
+   
+    2022	10	8220000
+   
+    2022	11	7633000
+   
+    2022	12	9351000
+   
+    2023	1	9470000
+   
+    2023	2	8497000
+   
+    2023	3	8379000
+   
+    2023	4	10174000
+   
+    2023	5	10107000
 
-    The analysis shows that regional performance contribute a lot of sales is west region than east or central.
+    2023	6	8802000
+   
+    2023	7	11566000
+   
+    2023	8	9951000
+   
+    2023	9	10144000
+   
+    2023	10	9795000
+   
+    2023	11	7202000
+   
+    2023	12	9337000
+   
+    2024	1	13452000
+   
+    2024	2	10338000
+   
+    2024	3	12033000
+   
+    2024	4	11962000
+   
+    2024	5	10550000
+   
+    2024	6	12481000
+   
+    2024	7	10738000
+   
+    2024	8	12677000
+   
+    2024	9	10934000
+   
+    2024	10	13317000
+   
+    2024	11	9985000
+   
+    2024	12	11186000
+   
+    2025	1	21189000
+   
+    2025	2	16537000
+   
+    2025	3	22109000
 
-3. Category Performance
+    Revenue by year:
+   
+    2022	79993000
+   
+    2023	113424000
+   
+    2024	139653000
+   
+    2025	59835000
 
-    The analysis shows that category contribute a lot of profit is consumer than corporate or home office.
 
+3. Top 10 menu items
+
+    The analysis shows that top 10 menu items:
+   
+    Matcha Espresso Fusion
+   
+    Cheese Cake Slice
+   
+    Croissant Butter
+   
+    Strawberry Smoothie
+   
+    Soda Gembira
+   
+    Beef Rice Bowl
+   
+    Club Sandwich
+   
+    Pancake Maple
+   
+    Iced Mocha
+   
+    Macchiato
+
+5. Average price
+
+    The analysis shows that average price
+   
+    Makanan	    56850
+   
+    Coffee	    37100
+   
+    Non-Coffee	29200
+   
+    Snack	    25200
+   
 
 **Business Findings & Recommendations** 
 
-belom jg
+After analysis, sedukopi have increase revenue from 2023 to 2024. 
 
 **Tools & Skills**
 
 Programming & Analysis
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- SQL
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- JOIN
 
 Analysis
 - Data Cleaning
 - Exploratory Data Analysis
-- Customer Segmentation
-- Data Visualization
+
 
 
 **Dashboard**
